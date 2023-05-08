@@ -1,0 +1,11 @@
+     Base building assignment answers
+
+1 Internet is a global network of computers and servers connected together to share information and resources.
+
+2 A web browser is a software application that allows users to access and view web pages on the internet
+
+3 A browser engine is a software component that powers web browsers.
+
+4 A static site is a website that consists of fixed content that is displayed to all visitors.
+
+5 A dynamic site is a website that generates content on the fly based on user interactions and other factors such as time and location. 
